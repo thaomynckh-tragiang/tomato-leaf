@@ -101,4 +101,287 @@ disease_database_content = {
         'description': """
         **Tác nhân:** Do nấm *Septoria lycopersici* gây ra.
         **Điều kiện phát triển:** Bệnh phát triển mạnh trong điều kiện thời tiết ấm và ẩm ướt, lây lan chủ yếu qua nước bắn (mưa, tưới tiêu) từ đất lên lá.
-        **Triệu chứng:** Rất nhiều đốm nhỏ (2-5mm) hình tròn, có **tâm màu xám trắng hoặc nâu nhạt và viền màu nâu sẫm/đen** rất đặc trưng
+        **Triệu chứng:** Rất nhiều đốm nhỏ (2-5mm) hình tròn, có **tâm màu xám trắng hoặc nâu nhạt và viền màu nâu sẫm/đen** rất đặc trưng. Bệnh thường bắt đầu từ các lá già phía dưới rồi lan dần lên trên, làm lá vàng, khô và rụng sớm.
+        """,
+        'solution': """
+        #### 🌿 Hành động ngay lập tức
+        * **Cắt tỉa:** Cắt bỏ và tiêu hủy ngay lập tức tất cả các lá bị nhiễm bệnh. **Không được vứt lá bệnh ra vườn hoặc ủ làm phân compost.**
+
+        #### 💧 Cải thiện phương pháp canh tác
+        * **Tưới nước đúng cách:** Chỉ tưới vào gốc cây, không tưới lên lá.
+        * **Tăng độ thông thoáng:** Tỉa bớt các cành lá ở dưới gốc để không khí lưu thông.
+        * **Phủ gốc:** Dùng rơm rạ hoặc màng phủ nông nghiệp để ngăn nấm bệnh từ đất bắn lên lá.
+
+        #### 💊 Sử dụng thuốc bảo vệ thực vật
+        * **Thuốc sinh học/hữu cơ:** Sử dụng các loại thuốc gốc Đồng (Copper), *Bacillus subtilis*.
+        * **Thuốc hóa học:** Sử dụng thuốc có hoạt chất **Chlorothalonil** hoặc **Mancozeb**.
+        """,
+        'prevention': """
+        * **Luân canh:** Không trồng cà chua, ớt, khoai tây ở cùng một vị trí trong 2-3 năm.
+        * **Vệ sinh đồng ruộng:** Dọn dẹp sạch sẽ tàn dư cây trồng sau mỗi vụ.
+        * **Chọn giống kháng bệnh:** Ưu tiên sử dụng các giống có khả năng kháng bệnh Septoria.
+        """
+    },
+    'Yellow_Leaf_Curl_Virus': {
+        'display_name': 'Bệnh Xoăn vàng lá do Virus (Yellow Leaf Curl Virus)',
+        'description': """
+        **Tác nhân:** Do một nhóm virus phức tạp (TYLCV) gây ra.
+        **Phương thức lây truyền:** Virus **không tự lây lan** mà được truyền từ cây bệnh sang cây khỏe chủ yếu thông qua côn trùng chích hút là **bọ phấn trắng (whitefly)**.
+        **Triệu chứng:** Cây bị nhiễm bệnh sẽ còi cọc, chậm phát triển nghiêm trọng. Lá non bị xoăn lại, cong lên trên, mép lá vàng. Kích thước lá nhỏ hơn bình thường, lá dày và giòn. Cây rất ít ra hoa hoặc không đậu quả, gây thất thu năng suất gần như hoàn toàn.
+        """,
+        'solution': """
+        ### **LƯU Ý QUAN TRỌNG: KHÔNG CÓ THUỐC CHỮA BỆNH DO VIRUS!**
+        Mọi biện pháp đều tập trung vào việc **xử lý cây bệnh** và **kiểm soát côn trùng truyền bệnh**.
+
+        #### 🌿 Hành động ngay lập tức
+        * **Nhổ bỏ và tiêu hủy:** Ngay khi phát hiện cây có triệu chứng, cần nhổ bỏ toàn bộ cây (bao gồm cả rễ), cho vào túi nilon đen và mang đi tiêu hủy xa khu vực trồng. Đây là hành động quan trọng nhất để loại bỏ nguồn lây.
+
+        #### 🦟 Kiểm soát bọ phấn trắng (Vector truyền bệnh)
+        * **Bẫy dính màu vàng:** Treo các tấm bẫy dính màu vàng xung quanh vườn để thu hút và tiêu diệt bọ phấn trưởng thành.
+        * **Phun thuốc trừ sâu:** Sử dụng các loại thuốc có hoạt chất như **Dinotefuran, Acetamiprid, Imidacloprid** để kiểm soát bọ phấn. Có thể dùng các loại thuốc sinh học như dầu Neem, nấm ký sinh (Beauveria bassiana) khi mật độ thấp.
+        """,
+        'prevention': """
+        * **Sử dụng cây giống khỏe, sạch bệnh:** Mua cây giống từ các vườn ươm uy tín.
+        * **Nhà lưới/nhà kính:** Sử dụng nhà lưới có mắt lưới đủ nhỏ để ngăn bọ phấn xâm nhập là biện pháp hiệu quả nhất.
+        * **Vệ sinh vườn tược:** Dọn dẹp cỏ dại xung quanh vườn vì đây là nơi trú ngụ của bọ phấn.
+        * **Chọn giống kháng Virus:** Đây là giải pháp bền vững và hiệu quả hàng đầu.
+        """
+    },
+    'healthy': {
+        'display_name': 'Lá Khỏe mạnh (Healthy)',
+        'description': """
+        ### **🎉 Chúc mừng, cây cà chua của bạn đang khỏe mạnh!**
+        Lá cây xanh tốt, không có dấu hiệu của đốm bệnh, nấm mốc hay biến dạng. Đây là một tín hiệu tuyệt vời cho thấy bạn đang chăm sóc cây rất tốt.
+        """,
+        'solution': """
+        ### ✅ Làm thế nào để giữ cây luôn khỏe mạnh?
+        * **Duy trì tưới nước đều đặn:** Tiếp tục tưới nước vào gốc, giữ độ ẩm cho đất ổn định nhưng không bị úng nước.
+        * **Bón phân cân đối:** Cung cấp dinh dưỡng đầy đủ và cân đối (Đạm, Lân, Kali và các vi lượng) theo từng giai đoạn sinh trưởng của cây (cây con, ra hoa, nuôi quả).
+        * **Tỉa lá định kỳ:** Tỉa bỏ các lá già ở gốc để cây luôn thông thoáng, tập trung dinh dưỡng nuôi quả và phòng ngừa sâu bệnh.
+        * **Thăm vườn thường xuyên:** Dành thời gian kiểm tra cây mỗi ngày để phát hiện sớm nhất bất kỳ dấu hiệu bất thường nào.
+        """,
+        'prevention': """
+        Phòng bệnh hơn chữa bệnh. Hãy tiếp tục duy trì các biện pháp phòng ngừa tốt nhất:
+        * **Giữ vườn sạch sẽ, thông thoáng.**
+        * **Luôn tưới nước vào gốc.**
+        * **Theo dõi sự xuất hiện của sâu bệnh hại để hành động sớm.**
+        * **Luân canh cây trồng sau mỗi vụ thu hoạch.**
+        """
+    }
+}
+
+def du_doan_benh(anh):
+    """Gửi ảnh đến API Roboflow để nhận dạng."""
+    bo_dem = io.BytesIO()
+    anh.save(bo_dem, quality=90, format="JPEG")
+    anh_mahoa = base64.b64encode(bo_dem.getvalue()).decode("utf-8")
+    phan_hoi = requests.post(DIA_CHI_API, data=anh_mahoa, headers={"Content-Type": "application/x-www-form-urlencoded"})
+    return phan_hoi.json()
+
+# --- Giao diện người dùng (UI) ---
+st.set_page_config(page_title="Ứng dụng Nhận diện Bệnh Lá Cà Chua", page_icon="🍅", layout="centered")
+
+# Áp dụng CSS tùy chỉnh để làm đẹp giao diện (Giữ nguyên để không thay đổi giao diện)
+st.markdown("""
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+    html, body, [class*="css"] {
+        font-family: 'Roboto', sans-serif;
+        color: #333;
+        font-size: 1.1em;
+    }
+    .stApp {
+        background-color: #f0f2f6;
+    }
+    .main .block-container {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        max-width: 700px;
+        margin: auto;
+    }
+    h1 {
+        color: #B22222; /* Màu đỏ nổi bật hơn (FireBrick) */
+        margin-bottom: 2rem; /* Tăng khoảng cách dưới tiêu đề */
+        font-size: 3em;
+        font-weight: 700;
+        text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+    }
+    
+    h1 a {
+        display: none !important;
+    }
+    
+    .stFileUploader {
+        border: 2px dashed #a7d9b5;
+        border-radius: 10px;
+        background-color: #e6ffe6;
+        min-height: 150px;
+        position: relative;
+        padding: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.3s ease-in-out;
+        overflow: hidden;
+    }
+    .stFileUploader:hover {
+        border-color: #28a745;
+        background-color: #d4ffd4;
+    }
+    .stFileUploader::before {
+        content: 'Bấm vào đây để chụp hoặc tải ảnh lên';
+        display: block;
+        position: absolute;
+        top: 35%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: #c62828;
+        font-weight: 900;
+        font-size: 1.2rem;
+        pointer-events: none;
+        text-align: center;
+        width: 90%;
+        z-index: 2;
+    }
+    .stFileUploader:has([data-testid="stFileUploaderFile"])::before {
+        content: 'Bấm vào đây để chụp hoặc tải ảnh khác';
+    }
+    .stFileUploader [data-testid="stFileUploaderDropzoneInstructions"] {
+        display: none !important;
+    }
+    .stFileUploader [data-testid="stFileUploaderDropzone"],
+    .stFileUploader [data-testid="stFileUploaderDropzone"] * {
+        background: transparent !important;
+        border: none !important;
+    }
+    .stFileUploader [data-testid="stFileUploaderDropzone"] button {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0;
+        cursor: pointer;
+        z-index: 1;
+    }
+    .stFileUploader [data-testid="stFileUploaderFile"] {
+        position: absolute;
+        bottom: 15%;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        padding: 0 1rem;
+        font-size: 0.9em;
+        color: #333;
+        z-index: 0;
+    }
+    .stImage {
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    }
+    .stSpinner > div > div {
+        color: #28a745 !important;
+    }
+    .stSuccess, .stInfo, .stWarning, .stError {
+        border-radius: 8px;
+        padding: 18px;
+        margin-top: 20px;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.08);
+        font-size: 1.4em !important;
+        line-height: 1.6;
+    }
+    .stSuccess {
+        background-color: #d4edda;
+        color: #155724;
+        border-left: 6px solid #28a745;
+        font-weight: 700 !important;
+    }
+    .stWarning {
+        background-color: #fff3cd;
+        color: #856404;
+        border-left: 5px solid #ffc107;
+    }
+    .stError {
+        background-color: #f8d7da;
+        color: #721c24;
+        border-left: 5px solid #dc3545;
+    }
+    .footer {
+        text-align: center;
+        margin-top: 30px;
+        padding-top: 15px;
+        border-top: 1px solid #eee;
+        color: #777;
+        font-size: 0.9em;
+    }
+    /* CSS cho expander */
+    .stExpander {
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        background-color: #ffffff;
+    }
+    .stExpander header {
+        font-size: 1.2em !important;
+        font-weight: 700 !important;
+        color: #B22222 !important;
+    }
+</style>
+""", unsafe_allow_html=True)
+
+# --- Luồng chính của ứng dụng ---
+st.markdown("<h1 style='text-align: center;'>🍅 ỨNG DỤNG AI NHẬN DIỆN BỆNH QUA LÁ CÀ CHUA 🍃</h1>", unsafe_allow_html=True)
+
+tep_anh = st.file_uploader(
+    label="Tải ảnh lên",
+    type=["jpg", "jpeg", "png"],
+    help="Hỗ trợ các định dạng: JPG, JPEG, PNG.",
+    label_visibility="collapsed"
+)
+
+if tep_anh is not None:
+    anh = Image.open(tep_anh).convert("RGB")
+    st.image(anh, caption="📷 Ảnh đã tải lên", use_container_width=True)
+
+    with st.spinner("🔍 Đang phân tích... Vui lòng chờ ⏳"):
+        ket_qua = du_doan_benh(anh)
+
+    # Xử lý kết quả trả về từ API
+    du_doan = ket_qua.get("predictions", [])
+    if du_doan:
+        benh = du_doan[0]
+        ten_benh_goc = benh["class"]
+        do_tin_cay = benh["confidence"] * 100
+
+        # Lấy thông tin chi tiết từ cơ sở dữ liệu nội bộ
+        info = disease_database_content.get(ten_benh_goc)
+
+        if info:
+            st.success(f"**Phát hiện:** {info['display_name']} (Độ tin cậy: {do_tin_cay:.1f}%)")
+
+            # Sử dụng expander để hiển thị thông tin chi tiết một cách gọn gàng
+            with st.expander("📝 Xem chi tiết và hướng dẫn xử lý"):
+                st.markdown("### Mô tả")
+                st.markdown(info['description'])
+                
+                st.markdown("### ✅ Hướng dẫn xử lý")
+                st.markdown(info['solution'])
+                
+                st.markdown("### 🌱 Hướng dẫn phòng trừ cho vụ sau")
+                st.markdown(info['prevention'])
+        else:
+            # Xử lý trường hợp tên bệnh từ Roboflow không có trong database
+            formatted_ten_benh = ten_benh_goc.replace('_', ' ').title()
+            st.warning(f"**Phát hiện:** {formatted_ten_benh} (Độ tin cậy: {do_tin_cay:.1f}%)")
+            st.error("Rất tiếc, chưa có thông tin chi tiết cho loại bệnh này trong cơ sở dữ liệu.")
+    else:
+        st.warning("🥺 Không phát hiện được bệnh nào. Vui lòng thử ảnh khác hoặc đảm bảo ảnh rõ ràng.")
+
+# --- Footer ---
+st.markdown("---")
+st.markdown('<div class="footer">Dự án được thực hiện bởi nhóm nghiên cứu AI.</div>', unsafe_allow_html=True)
